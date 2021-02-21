@@ -12,7 +12,12 @@
         "primary_nav_links": [
            
            
-           
+                
+            {
+                "label": "Services",
+                "url": "/features",
+                "style": "link"
+            }, 
             {
                 "label": "Services",
                 "url": "/features",
